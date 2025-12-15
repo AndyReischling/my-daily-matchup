@@ -1,0 +1,5 @@
+{
+  "name": "Paramount+ Sports Matchmaker",
+  "description": "A personalized onboarding flow for Paramount+ Sports using AI to match users with teams and fighters.",
+  "requestFramePermissions": []
+}
